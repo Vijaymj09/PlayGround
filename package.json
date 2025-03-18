@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@hono/node-server": "^1.13.8",
+    "@prisma/client": "^6.5.0",
+    "axios": "^1.8.3",
+    "hono": "^4.7.4"
+  },
+  "name": "playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "prisma": "^6.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vijaymj09/PlayGround.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vijaymj09/PlayGround/issues"
+  },
+  "homepage": "https://github.com/Vijaymj09/PlayGround#readme",
+  "description": ""
+}
